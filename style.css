@@ -38,6 +38,14 @@ button{
   padding: 0.5rem 1rem;
 }
 
+nav ul {
+  margin: 2rem;
+}
+
+nav li {
+  margin: 0.5rem 0;
+}
+
 nav svg {
   height: 1.5rem;
   padding-left: 1rem;
@@ -69,6 +77,10 @@ nav svg {
   grid-row: 1 / 4;
   background-color: var(--color-1);
   padding-top: 1rem;
+}
+
+#logo {
+  margin: 1rem;
 }
 
 #header {
