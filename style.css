@@ -39,6 +39,7 @@ body {
 
 #logo svg {
   width: 4rem;
+  min-width: 2rem;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -64,7 +65,8 @@ nav li {
 }
 
 nav svg {
-  height: 1.5rem;
+  width: 1.5rem;
+  min-width: 1.5rem;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -91,6 +93,7 @@ nav svg {
 
 #search-icon {
   width: 1.5rem;
+  min-width: 1.5rem;
 }
 
 #search-bar {
@@ -105,14 +108,17 @@ nav svg {
 
 #notification-icon {
   width: 1.5rem;
+  min-width: 1.5rem;
 }
 
 #account-icon {
   width: 3rem;
+  min-width: 1.5rem;
 }
 
 #greeting-icon {
   width: 5rem;
+  min-width: 2.5rem;
 }
 
 #greeting {
@@ -185,6 +191,7 @@ button {
 
 #trending svg {
   width: 3rem;
+  min-width: 1.5rem;
 }
 
 #trending-grid {
